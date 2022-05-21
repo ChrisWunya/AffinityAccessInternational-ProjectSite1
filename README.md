@@ -1,2 +1,2 @@
 # ProjectSites
-A collection of the sites I have solely developed for my clients
+A Non-Government-Organization I curated for one of my clients.
